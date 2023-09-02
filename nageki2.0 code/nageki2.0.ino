@@ -69,73 +69,73 @@ void setup() {
 
 void Keys(){
    if (digitalRead(buttonPin1) == LOW){ //按键1/Key1
-    Keyboard.press('A');
+    Keyboard.press('a');
    }
    else {
-    Keyboard.release('A');
+    Keyboard.release('a');
 }
 
    if (digitalRead(buttonPin2) == LOW){ //按键2/Key2
-    Keyboard.press('S');
+    Keyboard.press('s');
    }
    else {
-    Keyboard.release('S');
+    Keyboard.release('s');
 }
 
    if (digitalRead(buttonPin3) == LOW){ //按键3/Key3
-    Keyboard.press('D');
+    Keyboard.press('d');
    }
    else {
-    Keyboard.release('D');
+    Keyboard.release('d');
 }
 if (digitalRead(buttonPin4) == LOW){ //按键4/Key 4
-    Keyboard.press('J');
+    Keyboard.press('j');
    }
    else {
-    Keyboard.release('J');
+    Keyboard.release('j');
 }
 
    if (digitalRead(buttonPin5) == LOW){ //按键5/Key 5
-    Keyboard.press('K');
+    Keyboard.press('k');
    }
    else {
-    Keyboard.release('K');
+    Keyboard.release('k');
 }
 
    if (digitalRead(buttonPin6) == LOW){ //按键6/Key 6
-    Keyboard.press('L');
+    Keyboard.press('l');
    }
    else {
-    Keyboard.release('L');
+    Keyboard.release('l');
 }
 }
 void Function(){
   if (digitalRead(FunctionL) == LOW){ //功能键左/Menu L
-    Keyboard.press('R');
+    Keyboard.press('r');
    }
    else {
-    Keyboard.release('R');
+    Keyboard.release('r');
 }
   if (digitalRead(FunctionR) == LOW){ //功能键右/Menu R
-    Keyboard.press('U');
+    Keyboard.press('u');
    }
    else {
-    Keyboard.release('U');
+    Keyboard.release('u');
 }
 }
 void Side()
 {
     if (digitalRead(SideL) == LOW){ //侧键1/Side 1
-    Keyboard.press('P');
+    Keyboard.press('p');
    }
    else {
-    Keyboard.release('P');
+    Keyboard.release('p');
 }
   if (digitalRead(SideR) == LOW){ //侧键2/Side 2
-    Keyboard.press('Q');
+    Keyboard.press('q');
    }
    else {
-    Keyboard.release('Q');
+    Keyboard.release('q');
 }
 }
 void Card(){
