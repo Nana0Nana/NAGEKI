@@ -1,14 +1,6 @@
 # N.A.G.E.K.I.
 # [Introduction website](https://nananana.net/nageki-en/)
 
-# 某些人请先搞清楚什么是开源项目之后再来照搬我的项目！
-# 开源是为了方便大家且完全是慈善行为！我不会收到任何补助！
-# 请使用我的开源项目前先思考自己脑子是否正常！
-# 项目已经开展很久所以未来不会有更新！
-# 依据、仿造、修改本库的项目是不可接受的！
-# 禁止使用本项目进行任何商业目的的售卖行为！
-# 我有权利隐藏/删除本库全部内容
-### 我为什么不写英文版，因为只有你们某些傻逼二次元团体会这么干。
 
 # IM REBUILDING THIS PROJECT,ALL THE WORKS ALREADY DONE AND WAITING FOR UPLOAD.
 
